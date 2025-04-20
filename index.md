@@ -4,16 +4,16 @@
 
 ## My Favorite Labs in CPSC 120L:
 
-* Lab 7, Part One
+* **Lab 7, Part One** 
   
-  This lab was a great way to utilize the boolean logic that we learned in lecture. I had fun writing the functions and testing out everything. I like how the program also included commandline arguments to add even more complexity to the project.
+  This lab was a great way to utilize the boolean logic that we learned in lecture. I had fun writing the functions and testing them. The commandline arguments made the lab even better, allowing us to have more control over the output. This lab also showed me how programs like this can be applied to the real world.
 
 
-* Lab 8, Part Two
+* **Lab 8, Part Two**
   
   This part of the lab was very short, but the result was awesome. We utilized a nested for-loop to create a pattern in the terminal. This one stood out to me because I had tried to make a program like this on my own a while ago but I couldn't figure it out. This lab showed me the logic behind it and how the nested loop worked with each iteration.
 
-* Lab 9. Part Two
+* **Lab 9. Part Two**
 
   My favorite part of this lab was the `secrets.cc` file. The usage of the `#include <fstream>` header file was a good introduction to working with filestreams. I really liked the result of this program and made me want to create my own project that can deal with writing to a file. 
 
